@@ -1,1 +1,1 @@
-This p-barsh, a simple script to render a progress bar in shell.
+This is p-barsh, a simple script to render a progress bar in shell.
